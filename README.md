@@ -81,18 +81,12 @@
     <img height="35" src="https://cdn.simpleicons.org/facebook" alt="Facebook"/>
   </a>
   &nbsp;
-  <a href="https://twitter.com/yourusername" target="_blank">
-    <img height="35" src="https://cdn.simpleicons.org/twitter" alt="Twitter"/>
+  <a href="https://x.com/yourusername" target="_blank">
+    <img height="35" src="https://cdn.simpleicons.org/x" alt="X (formerly Twitter)"/>
   </a>
   &nbsp;
   <a href="mailto:youremail@example.com">
-    <img height="35" src="https://cdn.simpleicons.org/maildotru" alt="Email"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/sponsors/yourusername" target="_blank">
-    <img src="https://img.shields.io/badge/Sponsor-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Sponsors"/>
+    <img height="35" src="https://cdn.simpleicons.org/gmail" alt="Gmail"/>
   </a>
 </p>
 
