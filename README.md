@@ -85,7 +85,7 @@
     <img height="35" src="https://cdn.simpleicons.org/x" alt="X (formerly Twitter)"/>
   </a>
   &nbsp;
-  <a href="mailto:youremail@example.com">
+  <a href="mailto:k.mariasalus@gmail.com">
     <img height="35" src="https://cdn.simpleicons.org/gmail" alt="Gmail"/>
   </a>
 </p>
