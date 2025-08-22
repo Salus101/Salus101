@@ -95,9 +95,8 @@
 ## ​ Support Me  
 
 <p align="center">
-  <!-- Option A: Badge-style button (recommended for clean integration) -->
-  <a href="https://buymeacoffee.com/yourusername" target="_blank">
-    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee"/>
+  <a href="https://ko-fi.com/yourusername" target="_blank">
+    <img src="https://storage.ko-fi.com/cdn/kofi3.png?v=3" height="50" alt="Ko-fi"/>
   </a>
 </p>
 
