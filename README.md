@@ -20,11 +20,11 @@
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SalusKarabu&label=Profile%20Views&color=blue&style=flat" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=Salus101&label=Profile%20Views&color=blue&style=flat" alt="profile views"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SalusKarabu&show_icons=true&theme=radical" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Salus101&show_icons=true&theme=radical" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SalusKarabu&layout=compact&theme=radical" height="165"/>
 </p>
 
@@ -46,7 +46,7 @@
 - 🌍 Portfolio: *Coming soon*  
 - 💼 [LinkedIn](https://www.linkedin.com)  
 - 🐦 [Twitter](https://twitter.com)  
-- 📧 Email: salus@example.com  
+- 📧 Email: k.mariasalus@gmail.com
 
 ---
 
