@@ -94,11 +94,12 @@
 
 ## ​ Support Me  
 
-<p align="center">
-  <a href="https://ko-fi.com/yourusername" target="_blank">
+<div align="center" style="background-color: #ffdd00; padding: 10px; border-radius: 10px;">
+  <a href="https://ko-fi.com/Salus101" target="_blank">
     <img src="https://storage.ko-fi.com/cdn/kofi3.png?v=3" height="50" alt="Ko-fi"/>
   </a>
-</p>
+</div>
+
 
 
 
