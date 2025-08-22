@@ -1,18 +1,40 @@
-# 👋 Hi, I'm Salus Karabu
+<!-- Banner / Sticker -->
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300px" alt="Coding Sticker"/>
+</p>
+
+# 👋 Hi, I'm Salus Karabu  
 
 💻 **Full-stack Web Developer** | 🚀 Passionate about building scalable web applications and intuitive mobile solutions.  
 
 ---
 
-## 🌟 About Me
+## 🌟 About Me  
 - 🔹 Skilled in **Laravel, PHP, React, React Native, JavaScript, and Firebase**  
-- 🔹 Experienced in **role-based access control (RBAC), authentication, and real-time applications**  
+- 🔹 Experienced in **role-based access control (RBAC), authentication, and real-time apps**  
 - 🔹 Familiar with **system administration** and **virtual assistance**  
-- 🔹 Interested in **creating impactful digital solutions** for businesses and communities  
+- 🔹 Interested in **creating impactful digital solutions**  
 
 ---
 
-## 🛠️ Tech Stack
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SalusKarabu&label=Profile%20Views&color=blue&style=flat" alt="profile views"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SalusKarabu&show_icons=true&theme=radical" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SalusKarabu&layout=compact&theme=radical" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SalusKarabu&theme=radical" alt="GitHub streak stats"/>
+</p>
+
+---
+
+## 🛠️ Tech Stack  
 - **Frontend:** React, React Native, HTML, CSS, JavaScript, TailwindCSS  
 - **Backend:** PHP, Laravel, Node.js  
 - **Database:** MySQL, Firebase, MongoDB  
@@ -20,19 +42,11 @@
 
 ---
 
-## 📌 Projects
-Here are some highlighted projects you’ll find on my GitHub:  
-- 🔑 **RBAC Dashboard** – Role-based access control system built with Laravel  
-- 📱 **Community Service Booking App** – Android app with Firebase backend  
-- 🌐 **Company Landing Pages & Management Systems** – Professional websites using Laravel and modern design  
-
----
-
-## 📫 Connect with Me
+## 📫 Connect with Me  
 - 🌍 Portfolio: *Coming soon*  
 - 💼 [LinkedIn](https://www.linkedin.com)  
 - 🐦 [Twitter](https://twitter.com)  
-- 📧 Email: k.mariasalus@gmail.com 
+- 📧 Email: salus@example.com  
 
 ---
 
