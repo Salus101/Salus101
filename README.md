@@ -1,13 +1,23 @@
-<!-- Banner / Sticker -->
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300px" alt="Coding Sticker"/>
-</p>
+<div align="center">
 
+<table>
+<tr>
+<td>
+  
 # 👋 Hi, I'm Salus Karabu  
 
-💻 **Full-stack Web Developer** | 🚀 Passionate about building scalable web applications and intuitive mobile solutions.  
+💻 **Full-stack Web Developer**  
+🚀 Passionate about building scalable web applications and intuitive mobile solutions.  
 
----
+</td>
+<td>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250px" alt="Coding Sticker"/>
+</td>
+</tr>
+</table>
+
+</div>
+
 
 ## 🌟 About Me  
 - 🔹 Skilled in **Laravel, PHP, React, React Native, JavaScript, and Firebase**  
