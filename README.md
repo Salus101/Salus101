@@ -96,10 +96,6 @@
 ## ☕ Support Me  
 
 <p align="center">
-  <a href="https://www.buymeacoffee.com/yourusername" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" alt="Buy Me A Coffee"/>
-  </a>
-  &nbsp;
   <a href="https://ko-fi.com/yourusername" target="_blank">
     <img src="https://storage.ko-fi.com/cdn/kofi3.png?v=3" height="50" alt="Ko-fi"/>
   </a>
