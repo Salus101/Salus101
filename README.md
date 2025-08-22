@@ -32,7 +32,7 @@ Here are some highlighted projects you’ll find on my GitHub:
 - 🌍 Portfolio: *Coming soon*  
 - 💼 [LinkedIn](https://www.linkedin.com)  
 - 🐦 [Twitter](https://twitter.com)  
-- 📧 Email: salus@example.com  
+- 📧 Email: k.mariasalus@gmail.com 
 
 ---
 
