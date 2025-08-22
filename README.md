@@ -34,9 +34,17 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Salus101&show_icons=true&theme=radical" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Salus101&layout=compact&theme=radical" height="165"/>
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Salus101&show_icons=true&theme=radical" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Salus101&layout=compact&theme=radical" alt="Top Languages" height="180"/>
 </p>
+
+<p align="center">
+  <!-- Shields.io Badges -->
+  <img src="https://img.shields.io/badge/Repos-{{REPO_COUNT}}-blue?style=for-the-badge&logo=github" alt="Repos"/>
+  <img src="https://img.shields.io/badge/Stars-{{STAR_COUNT}}-yellow?style=for-the-badge&logo=github" alt="Stars"/>
+</p>
+
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Salus101&theme=radical" alt="GitHub streak stats"/>
