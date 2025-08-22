@@ -71,35 +71,37 @@
 
 ---
 
-## 📫 Connect with Me  
+## ​ Connect with Me  
 
 <p align="center">
   <a href="https://linkedin.com/in/yourlinkedin" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" width="35" height="35" alt="LinkedIn"/>
+    <img height="35" src="https://cdn.simpleicons.org/linkedin" alt="LinkedIn"/>
   </a>
   &nbsp;
   <a href="https://twitter.com/yourtwitter" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/twitter.svg" width="35" height="35" alt="Twitter"/>
+    <img height="35" src="https://cdn.simpleicons.org/twitter" alt="Twitter"/>
   </a>
   &nbsp;
-  <a href="mailto:salus@example.com">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" width="35" height="35" alt="Email"/>
+  <a href="mailto:youremail@example.com">
+    <img height="35" src="https://cdn.simpleicons.org/gmail" alt="Email"/>
   </a>
   &nbsp;
-  <a href="https://github.com/SalusKarabu" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg" width="35" height="35" alt="GitHub"/>
+  <a href="https://github.com/YourUsername" target="_blank">
+    <img height="35" src="https://cdn.simpleicons.org/github" alt="GitHub"/>
   </a>
 </p>
 
 ---
 
-## ☕ Support Me  
+## ​ Support Me  
 
 <p align="center">
-  <a href="https://ko-fi.com/yourusername" target="_blank">
-    <img src="https://storage.ko-fi.com/cdn/kofi3.png?v=3" height="50" alt="Ko-fi"/>
+  <!-- Option A: Badge-style button (recommended for clean integration) -->
+  <a href="https://buymeacoffee.com/yourusername" target="_blank">
+    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee"/>
   </a>
 </p>
+
 
 
 ⭐️ *“Code is not just for solving problems, but for creating opportunities.”*  
