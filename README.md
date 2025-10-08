@@ -7,7 +7,7 @@
 # 👋 Hi, I'm Salus Karabu  
 
 💻 **Full-stack Web Developer**  
-🚀 Passionate about building scalable web applications and intuitive mobile solutions.  
+🚀 I am a professional web designer, very passionate about building usable and scalable websites.
 
 </td>
 <td>
