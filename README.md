@@ -33,11 +33,6 @@
   <img src="https://komarev.com/ghpvc/?username=Salus101&label=Profile%20Views&color=blue&style=flat" alt="profile views"/>
 </p>
 
-<p align="center">
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Salus101&show_icons=true&theme=radical" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Salus101&layout=compact&theme=radical" alt="Top Languages" height="180"/>
-</p>
 
 <p align="center">
   <!-- Shields.io Badges -->
@@ -74,7 +69,6 @@
   <!-- Tools -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker"/>
 </p>
 
 
@@ -89,13 +83,7 @@
     <img height="35" src="https://cdn.simpleicons.org/facebook" alt="Facebook"/>
   </a>
   &nbsp;
-  <a href="https://x.com/yourusername" target="_blank">
-    <img height="35" src="https://cdn.simpleicons.org/x" alt="X (formerly Twitter)"/>
-  </a>
-  &nbsp;
-  <a href="mailto:k.mariasalus@gmail.com">
-    <img height="35" src="https://cdn.simpleicons.org/gmail" alt="Gmail"/>
-  </a>
+
 </p>
 
 ---
