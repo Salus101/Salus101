@@ -45,7 +45,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Salus101&theme=radical" alt="GitHub streak stats"/>
 </p>
 
----
 
 ## ​​ Tech Stack  
 
@@ -86,7 +85,6 @@
 
 </p>
 
----
 
 ## ​ Support Me  
 
